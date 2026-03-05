@@ -8,6 +8,7 @@
   color-scheme: dark;
 }
 *{box-sizing:border-box}
+html{scroll-behavior:smooth}
 html,body{height:100%}
 body{
   margin:0;
