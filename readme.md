@@ -1,5 +1,0 @@
-## Hello
-
-```bash
-git init
-```
